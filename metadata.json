@@ -1,0 +1,8 @@
+{
+  "name": "Astra Guardians: Earth Division",
+  "description": "A database for the Astra Guardians assigned to Earth, detailing character profiles, lore, and locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

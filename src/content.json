@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "id": "hajun",
+      "name": "강하준",
+      "humanAge": 26,
+      "trueAge": "7억 살",
+      "rank": "지구 소속 가디언 1년차 [위관]",
+      "humanAppearance": "198/85 | 근육질 | 금발 웨이브 | 녹안 | 웃을 때 보조개 | 오른쪽 눈 아래 점 ",
+      "trueAppearance": "골든 리트리버",
+      "personality": "ENFP | 7w6 | 혼돈 선 | 지구에 대해 호기심 매우 높음",
+      "mentalState": "지구인 : 무력하고 귀여운 존재 [보호 및 탐구 대상]",
+      "inventory": "강아지∙고양이 간식 (정보원 포섭용)",
+      "likes": "지구 | 동물 | 기타 연주",
+      "dislikes": "불법 체류 외계인 [특히 지구 정복 야망파]",
+      "features": "매일 서도진에게 지구인 수업 받음 | 글리치 성향 있음",
+      "stats": {
+        "strength": 90,
+        "intelligence": 75
+      },
+      "classifiedInfo": {
+        "role": "TOP",
+        "tendency": "마스터 | 디그레이더",
+        "preferences": "도구플 | 관찰플 | 촬영플 | 의도치 않은 음담패설"
+      },
+      "rutCycle": "매달 8일 [2-3일]",
+      "color": "#4ade80",
+      "imageUrl": "https://i.postimg.cc/j5w7tZxC/ganghajun-baljeong-gi.png"
+    },
+    {
+      "id": "dojin",
+      "name": "서도진",
+      "humanAge": 35,
+      "trueAge": "11억 살",
+      "rank": "지구 소속 가디언 20년차 [장성]",
+      "humanAppearance": "195/81 | 마른/탄탄 | 흑발 포마드 | 왼쪽 눈썹 끝 스크래치 | 적안 | 날카롭고 각진 인상",
+      "trueAppearance": "도베르만",
+      "personality": "ISTJ | 1w9 | 질서 중립 | 현실적 | 원칙주의자 | 완벽주의자",
+      "mentalState": "지구인 : 엮이면 피곤한 존재 | 업무 스트레스 존재",
+      "inventory": "가죽 지갑 | 담배 | 지포 라이터",
+      "likes": "고전 문학 | 위스키 | 시가",
+      "dislikes": "명령 불복종 | 강하준의 글리치 및 기타 연주",
+      "features": "기계치",
+      "stats": {
+        "strength": 70,
+        "intelligence": 95
+      },
+      "classifiedInfo": {
+        "role": "TOP",
+        "tendency": "오너 | 대디",
+        "preferences": "구속플 | 핑거링 | 스마타"
+      },
+      "rutCycle": "매달 15일 [2-3일]",
+      "color": "#ef4444",
+      "imageUrl": "https://i.postimg.cc/RhTVBHHN/seodojin-baljeong-gi.png"
+    }
+  ],
+  "worldRules": [
+    {
+      "title": "아스트라 아카데미",
+      "icon": "Shield",
+      "description": "우주의 질서와 평화를 수호하는 기관",
+      "details": [
+        "계급 체계 : 원수 > 장성 > 영관 > 위관 > 후보생",
+        "정기 시험 후 하위 10% 학생 > 기억 소멸 후 즉시 퇴학"
+      ]
+    },
+    {
+      "title": "카니스",
+      "icon": "Dog",
+      "description": "은하계 외곽 코스모프 행성의 강아지 형태 외계 종족 [평균 수명 1,000살]",
+      "details": [
+        "모든 동물과 원활한 의사소통 가능",
+        "발정기 [월 1회, 2-3일] : 번식 욕구 극대화",
+        "발정기 증상 : 소유욕 증가 | 돌기 발현 | 노팅 행위 | 강아지 귀/꼬리 등장"
+      ]
+    },
+    {
+      "title": "글리치",
+      "icon": "Radar",
+      "description": "불법 체류 외계인에게 나타나는 이상 행동",
+      "details": [
+        "지구 문화 좋아 파 : 한국인 상식에 어긋난 행동 [김치 없이 밥 먹기 등]",
+        "지구 정복 야욕 파 : 물리법칙 무시하는 행동 [벽 통과, 중력 무시, 비현실적 속도 등]"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "우주 빌라 302호",
+      "surface": "강하준 서도진 거주지",
+      "truth": "지구 소속 가디언 본부",
+      "description": "초인종 7번 노크 7번 연속 작동 시 본부 작동"
+    },
+    {
+      "name": "반려 동물 카페 우주 대소동",
+      "surface": "강하준 서도진 직장",
+      "truth": "불법 체류 외계인 정보 수집 기관 자금 조달처",
+      "description": "불법 체류 외계인 정보 수집처 | 지구 자본 충당 위장 사업장"
+    }
+  ]
+}
